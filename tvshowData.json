@@ -1,0 +1,125 @@
+data.tvshows.insert(
+[
+    {
+        "tvshow_id" : 1,
+        "tvshow_name" : "Mismatched",
+        "genre" : "romance",
+        "genre_id" : 6,
+        "category_id" : 1,
+        "description" : "Hopeless romantic Rishi hopes to woo Dimple at a summer course after seeing her photo on a matrimonial website - but marriage is far from her mind.",
+        "starring" : "Prajakta Koli, Rohit Saraf, Vihaan Samat, Taaruk Raina, Vidya Malavade, Kritika Bharadwaj, Rannvijay Singh, Muskkaan Jaferi, Devyani Shorey, Suhasini Mulay, Abhinav Sharma, Ravin Makhija ",
+        "director" : "Akarsh Khurana",
+        "writer" : "Gazal Dhaliwal",
+        "maturity_rating" : "A",
+        "released" : "2020",
+        "image" : "",
+        "season" : "1",
+        "episode_no" : "6",
+        "episode":[
+            {
+                "episode" : 1,
+                "title" :"When Dimple met Rishi",
+                "description" : "Hopeless romantic Rishi hopes to woo Dimple at a summer course after seeing her photo on a matrimonial website - but marriage is far from her mind.",
+                "timing": "29m"
+            },
+            {
+                "episode" : 2,
+                "title" :"Hot Summer, Cold Vibes",
+                "description" : "Dimple learns why she was really allowed to come to Jaipur. Bonding with Dimple during a class assignment, Rishi hopes they'll be paired for s project.",
+                "timing": "32m"
+            },
+            {
+                "episode" : 3,
+                "title" :"Message Deleted",
+                "description" : "After a less-than-fun dinner with Celina's friends, Dimple's walk home with Rishi proves enlightening. Celina's and Namrata both hide secrets.",
+                "timing": "30m"
+            },
+            {
+                "episode" : 4,
+                "title" :"Making Moves",
+                "description" : "Namrata confides in Rishi about her crush. Emotions run high when a wild house party at Zeenat's brings surprises and misunderstandings.",
+                "timing": "35m"
+            },
+            {
+                "episode" : 5,
+                "title" :"It's Not a Date",
+                "description" : "Rishi and Dimple go on a platonic date, but confessions and secrets raise the stakes. As Dimple's app idea is approved, Anmol poses a challenge.",
+                "timing": "35m"
+            },
+            {
+                "episode" : 6,
+                "title" :"Games We Play",
+                "description" : "Dimple devotes herself to her app before a dramatic gaming showdown with Anmol. Multiple betrayals risk relationships, including Dimple and Rishi's.",
+                "timing": "30m"
+            }
+        ]
+    },
+    {
+        {
+            "tvshow_id" : 2,
+            "tvshow_name" :"The Fame Game",
+            "genre" : "thriller",
+            "genre_id" : 2,
+            "category_id" : 1,
+            "description" : "Anamika's sudden disappearance launches an investigation. Flashes of the preceding weeks reveal her starined marraige and a troubling incident at home",
+            "starring" : "Madhuri Dixit, Sanjay Kapoor, Manav Kaul, Rajshri Deshpande, Muskkan Jaferi, Lakshvir Singh Saran, Gagan Arora, Suhasini Mulay, Shubhangi Latkar ",
+            "director" : "Sri Rao",
+            "writer" : "Bejao Nambiar, Karishma Kohli",
+            "maturity_rating" : "U/A 16+",
+            "released" : "2022",
+            "image" : "",
+            "season" : "1",
+            "episode_no" : "8",
+            "episode":[
+                {
+                    "episode" : 1,
+                    "title" :"Episode 1",
+                    "description" : "Anamika's sudden disappearance launches an investigation. Flashes of the preceding weeks reveal her starined marraige and a troubling incident at home",
+                    "timing": "46m"
+                },
+                {
+                    "episode" : 2,
+                    "title" :"Episode 2",
+                    "description" : "As public concern for Anamika grows, Avi suspects Nikhil while Shobha distrusts Manish. Amara recalls Anamika's concern over her acting aspirations",
+                    "timing": "44m"
+                },
+                {
+                    "episode" : 3,
+                    "title" :"Episode 3",
+                    "description" : "Shobha questions Nikhil's film financier. In flashbacks, truths emerge about Anamika's wealth and Manish's diagonsis. Anamika wonders what Avi is hiding.",
+                    "timing": "44m"
+                },
+                {
+                    "episode" : 4,
+                    "title" :"Episode 4",
+                    "description" : "Earlier weeks reveal Anamika's growig defiance and an altercation that leaves Avi distraught. In the present, Billy begins his own search for Anamika.",
+                    "timing": "46m"
+                },
+                {
+                    "episode" : 5,
+                    "title" :"Episode 5",
+                    "description" : "Shobha's alarming discovery spawns more arguments within the family. In the past, pressure pushes Amara near a breaking point and Anamika faces danger.",
+                    "timing": "43m"
+                },
+                {
+                    "episode" : 6,
+                    "title" :"Episode 6",
+                    "description" : "A visit to Manish's farmhouse gives Anamika clarity. In the present day, amid news of a murder, a music launch for Anamika and Manish's film turns tense.",
+                    "timing": "44m"
+                },
+                {
+                    "episode" : 7,
+                    "title" :"Episode 7",
+                    "description" : "The police team rushes to track down the site of an alarming clue. Shobha urges Avi to tell her what he knows - and he lets damning family secrets spill.",
+                    "timing": "54m"
+                },
+                {
+                    "episode" : 6,
+                    "title" :"Episode 8",
+                    "description" : "A sad development stokes public frency. While Shobha can't shake agut feeling on Anamika's whereabouts, someone else knows more than they let on.",
+                    "timing": "50m"
+                }
+            ]
+        }
+    }
+])

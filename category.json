@@ -1,0 +1,12 @@
+db.categories.insert(
+[
+    {
+        "category_id" : 1,
+        "category_type" : "tvshow"
+    },
+    {
+        "category_id" : 2,
+        "category_type" : "movies"
+    }
+]
+)
